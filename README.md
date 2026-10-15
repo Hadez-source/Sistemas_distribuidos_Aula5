@@ -23,3 +23,11 @@ def sacar(valor):
 
     print("Saldo esperado: 500")
     print("Saldo obtido: ", saldo)
+
+
+
+PS C:\Users\aluno\Desktop\Atividade simone> py corrida.py
+Saldo esperado: 500
+Saldo obtido:  500
+PS C:\Users\aluno\Desktop\Atividade simone> 
+
